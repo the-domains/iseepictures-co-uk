@@ -1,0 +1,28 @@
+name: iseepictures.co.uk
+favicon: null
+layout_spectrum: 0.3650222681462765
+typography_spectrum: 0.052413438679650426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5828920877538621
+  lightness: 0.08577859750948846
+  saturation: 0.43139983457513154
+  rhythmicContrast: 0.93187251011841
+purpose: []
